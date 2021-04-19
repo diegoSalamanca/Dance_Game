@@ -1,0 +1,623 @@
+fileFormatVersion: 2
+guid: 9c52e89b2c4ae7e4383ee6ed63e2c274
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5730732384898094332
+    second: Ui_life_game_0
+  - first:
+      213: -3656866281874002601
+    second: Ui_life_game_1
+  - first:
+      213: 7401330186766098304
+    second: Ui_life_game_2
+  - first:
+      213: -2379470723608762659
+    second: Ui_life_game_3
+  - first:
+      213: 4280737468240805216
+    second: Ui_life_game_4
+  - first:
+      213: 6535600367335104340
+    second: Ui_life_game_5
+  - first:
+      213: 7888212562010775830
+    second: Ui_life_game_6
+  - first:
+      213: 7362264570629456040
+    second: Ui_life_game_7
+  - first:
+      213: -8547515963068658917
+    second: Ui_life_game_8
+  - first:
+      213: -3387545800683254553
+    second: Ui_life_game_9
+  - first:
+      213: 4643332734776840302
+    second: Ui_life_game_10
+  - first:
+      213: -2411952667254827448
+    second: Ui_life_game_11
+  - first:
+      213: -6146259752571598513
+    second: Ui_life_game_12
+  - first:
+      213: -6381830755892204735
+    second: Ui_life_game_13
+  - first:
+      213: 563337016569835087
+    second: Ui_life_game_14
+  - first:
+      213: 8550098651326580382
+    second: Ui_life_game_15
+  - first:
+      213: 3197243490612053112
+    second: Ui_life_game_16
+  - first:
+      213: 397176769789470941
+    second: Ui_life_game_17
+  - first:
+      213: 5595073064655218591
+    second: Ui_life_game_18
+  - first:
+      213: 6692417771730120854
+    second: Ui_life_game_19
+  - first:
+      213: 8926292659335981293
+    second: Ui_life_game_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ui_life_game_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 885
+        width: 99
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf49da8cdb6a78f40800000000000000
+      internalID: 5730732384898094332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_life_game_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 867
+        width: 131
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75debc5dd73304dc0800000000000000
+      internalID: -3656866281874002601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_life_game_2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 858
+        width: 60
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f9197479ec6b660800000000000000
+      internalID: 7401330186766098304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_life_game_3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 862
+        width: 95
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6abdddbfb6afed0800000000000000
+      internalID: -2379470723608762659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_life_game_4
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 859
+        width: 139
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06db23b0c0c386b30800000000000000
+      internalID: 4280737468240805216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_life_game_5
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 878
+        width: 121
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fdbe038ed13ba50800000000000000
+      internalID: 6535600367335104340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_life_game_6
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 857
+        width: 52
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6112d67188f887d60800000000000000
+      internalID: 7888212562010775830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_life_game_7
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 863
+        width: 60
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a000dabe940c2660800000000000000
+      internalID: 7362264570629456040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_life_game_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 456
+        width: 206
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bcf4da48f116980800000000000000
+      internalID: -8547515963068658917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_life_game_9
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 482
+        width: 159
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec88e1da050df0d0800000000000000
+      internalID: -3387545800683254553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_life_game_10
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 482
+        width: 469
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e601156558e607040800000000000000
+      internalID: 4643332734776840302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_life_game_11
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 223
+        width: 206
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846583504d5078ed0800000000000000
+      internalID: -2411952667254827448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_life_game_12
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 249
+        width: 159
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4980beb15914baa0800000000000000
+      internalID: -6146259752571598513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_life_game_13
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 249
+        width: 469
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14be16a6dbe2f67a0800000000000000
+      internalID: -6381830755892204735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_life_game_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 206
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e2979280061d700800000000000000
+      internalID: 563337016569835087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_life_game_15
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 23
+        width: 159
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e960eda4c6d08a670800000000000000
+      internalID: 8550098651326580382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_life_game_16
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 23
+        width: 469
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8748c56d304ee5c20800000000000000
+      internalID: 3197243490612053112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_life_game_17
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 774
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8a654fa2e038500800000000000000
+      internalID: 397176769789470941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_life_game_18
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 777
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97612fee41b5ad40800000000000000
+      internalID: 5595073064655218591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ui_life_game_19
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 776
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6903c74618e30ec50800000000000000
+      internalID: 6692417771730120854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
