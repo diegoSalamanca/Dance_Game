@@ -1,7 +1,7 @@
-﻿//Prueba presentada por: Diego Fabian Salamanca Garcia para Life Is the Game
+﻿//Developed by: Diego Fabian Salamanca Garcia
 //Emial: Diegocolmayor@gmail.com
-//Tel: 3508232690 / 3017337051
-//Descripción: Esta clase reproduce la animación guardada en el scriptable object en la escena 2
+//Tel: 3508232690
+
 using UnityEngine;
 
 public class PlayerLoadAnimation : MonoBehaviour

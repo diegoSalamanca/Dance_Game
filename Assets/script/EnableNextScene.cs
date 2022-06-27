@@ -1,8 +1,6 @@
-﻿//Prueba presentada por: Diego Fabian Salamanca Garcia para Life Is the Game
+﻿//Developed by: Diego Fabian Salamanca Garcia
 //Emial: Diegocolmayor@gmail.com
-//Tel: 3508232690 / 3017337051
-//Descripción: Esta clase activa el boton para cambiar de escena luego de seleccionar una animación
-
+//Tel: 3508232690
 
 using UnityEngine;
 

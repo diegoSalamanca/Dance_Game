@@ -1,7 +1,6 @@
-﻿//Prueba presentada por: Diego Fabian Salamanca Garcia para Life Is the Game
+﻿//Developed by: Diego Fabian Salamanca Garcia
 //Emial: Diegocolmayor@gmail.com
-//Tel: 3508232690 / 3017337051
-//Descripción: Este código controla la repdrodción de las animaciones de baile
+//Tel: 3508232690
 
 using UnityEngine;
 
