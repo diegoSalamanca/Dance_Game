@@ -1,7 +1,6 @@
-﻿//Prueba presentada por: Diego Fabian Salamanca Garcia para Life Is the Game
+﻿//Developed by: Diego Fabian Salamanca Garcia
 //Emial: Diegocolmayor@gmail.com
-//Tel: 3508232690 / 3017337051
-//Descripción: Esta clase administra los sonidos
+//Tel: 3508232690
 
 using UnityEngine;
 using UnityEngine.SceneManagement;
